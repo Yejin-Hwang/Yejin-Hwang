@@ -43,8 +43,8 @@
   ▸ Collaborated with Prof. Joohee Cho (SAHIST / Johns Hopkins) on clinical epidemiological study protocols and data workflows
 
 - (2022.03–2022.10) Research Assistant @ Prof. Jinhee Heo’s Lab (SKKU)  
-  ▸ Participated in microbiome-related food biotechnology research  
-  ▸ Conducted literature review and basic data handling for lab-scale experiments
+  ▸ Conducted scientific literature review  and basic data handling for lab-scale experiments under Prof. Jinhee Hur (Ph.D. from Johns Hopkins, Postdoctoral Fellow at Harvard) 
+  ▸ Gained foundational experience in academic research and interdisciplinary collaboration
 
 ---
 
