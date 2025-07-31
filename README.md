@@ -25,7 +25,7 @@
 
 ### 🚀 Experiences
 
-- (2024.09–Present) Research Assistant @ Texas A&M University–Corpus Christi  
+- (2024.09–Present) Research Assistant @ [Prof.Sreelekha Guggilam's Lab (TAMUCC)](https://sreelekh.github.io/)
   ▸ Conducting thesis research under Prof. Sreelekha Kadam at the intersection of financial time series modeling and social sentiment analysis  
   ▸ Designing a Reddit sentiment-enhanced forecasting model combining custom VADER-based lexicons with multivariate transformer-based models
   ▸ Fine-tuning large foundation models using stock price data and implementing scalable inference pipelines for real-time market prediction
