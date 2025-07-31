@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yejin (예진 황)
 
 🎓 MS in Data Science @ Texas A&M University-Corpus Christi  
-🎓 B.S. in Food Science & Biotechnology @ SKKU (Sungkyunkwan University)
+🎓 B.S. in Food Science & Biotechnology @ SKKU [Sungkyunkwan University](https://www.skku.ac.kr/eng/)
 
 
 🔬 Former research intern @ Samsung Medical Center (Epidemiology & Clinical Data)  
@@ -27,11 +27,11 @@
 
 - (2024.09–Present) Research Assistant @ Texas A&M University–Corpus Christi  
   ▸ Conducting thesis research under Prof. Sreelekha Kadam at the intersection of financial time series modeling and social sentiment analysis  
-  ▸ Designing a Reddit sentiment-enhanced forecasting model combining custom VADER-based lexicons with multivariate transformer-based models (TimesFM, PatchTST)  
+  ▸ Designing a Reddit sentiment-enhanced forecasting model combining custom VADER-based lexicons with multivariate transformer-based models
   ▸ Fine-tuning large foundation models using stock price data and implementing scalable inference pipelines for real-time market prediction
 
 
-- (2023.03–2023.08) Clinical Research Assistant @ Samsung Medical Center – CCE (Clinical Center for Epidemiology)  
+- (2023.03–2023.08) Clinical Research Assistant @ [Samsung Medical Center – CCE (Clinical Center for Epidemiology)](http://www.samsunghospital.com/dept/main/index.do?DP_CODE=1812J2)
   ▸ Supported data analysis for epidemiological studies under Prof. Joohee Cho, Prof. Danbi Kang (Johns Hopkins SAHIST alumna)  
   ▸ Worked on structured health datasets related to nutritional epidemiology and chronic disease
 
@@ -39,7 +39,7 @@
   ▸ Managed and cleaned clinical datasets and assisted in data coordination for epidemiology research  
   ▸ Collaborated with Prof. Joohee Cho (SAHIST / Johns Hopkins) on clinical epidemiological study protocols and data workflows
 
-- (2022.03–2022.10) Research Assistant @ Prof. Jinhee Heo’s Lab (SKKU)  
+- (2022.03–2022.10) Research Assistant @ [Prof. Jinhee Heo’s Lab (SKKU)](https://clinelab.skku.edu/home) 
   ▸ Conducted scientific literature review  and basic data handling for lab-scale experiments under Prof. Jinhee Hur (Ph.D. from Johns Hopkins, Postdoctoral Fellow at Harvard) 
   ▸ Gained foundational experience in academic research and interdisciplinary collaboration
 
