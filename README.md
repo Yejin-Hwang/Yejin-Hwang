@@ -30,9 +30,6 @@
   ▸ Designing a Reddit sentiment-enhanced forecasting model combining custom VADER-based lexicons with multivariate transformer-based models (TimesFM, PatchTST)  
   ▸ Fine-tuning large foundation models using stock price data and implementing scalable inference pipelines for real-time market prediction
 
-- (2022.12–2023.02) Biostatistics & Epidemiology Researcher @ Samsung Medical Center  
-  ▸ Managed and cleaned clinical datasets and assisted in data
-
 
 - (2023.03–2023.08) Clinical Research Assistant @ Samsung Medical Center – CCE (Clinical Center for Epidemiology)  
   ▸ Supported data analysis for epidemiological studies under Prof. Joohee Cho, Prof. Danbi Kang (Johns Hopkins SAHIST alumna)  
