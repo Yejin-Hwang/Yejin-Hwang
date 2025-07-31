@@ -31,15 +31,12 @@
   ▸ Fine-tuning large foundation models using stock price data and implementing scalable inference pipelines for real-time market prediction
 
 
-- (2023.03–2023.08) Clinical Research Assistant @ [Samsung Medical Center – CCE (Clinical Center for Epidemiology)](http://www.samsunghospital.com/dept/main/index.do?DP_CODE=1812J2)
-  ▸ Supported data analysis for epidemiological studies under Prof. Joohee Cho, Prof. Danbi Kang (Johns Hopkins SAHIST alumna)  
-  ▸ Worked on structured health datasets related to nutritional epidemiology and chronic disease
+- (2022.08–2023.08) Clinical Data Research Assistant @ [Samsung Medical Center – CCE (Clinical Center for Epidemiology)](http://www.samsunghospital.com/dept/main/index.do?DP_CODE=1812J2)
+  ▸ Supported data collection and analysis for clinical epidemiological studies under Prof. Juhee Cho (SAHIST / Johns Hopkins), Prof. Danbee Kang (SAHIST)
+  ▸ Worked on structured health datasets related to rare and oncological diseases(cancer)
+  ▸ Managed and cleaned clinical datasets and assisted in data coordination(protocols, data workflows)for epidemiology research  
 
-- (2022.12–2023.02) Biostatistics & Epidemiology Researcher @ Samsung Medical Center  
-  ▸ Managed and cleaned clinical datasets and assisted in data coordination for epidemiology research  
-  ▸ Collaborated with Prof. Joohee Cho (SAHIST / Johns Hopkins) on clinical epidemiological study protocols and data workflows
-
-- (2022.03–2022.10) Research Assistant @ [Prof. Jinhee Heo’s Lab (SKKU)](https://clinelab.skku.edu/home) 
+- (2022.03–2022.07) Research Assistant @ [Prof. Jinhee Heo’s Lab (SKKU)](https://clinelab.skku.edu/home) 
   ▸ Conducted scientific literature review  and basic data handling for lab-scale experiments under Prof. Jinhee Hur (Ph.D. from Johns Hopkins, Postdoctoral Fellow at Harvard) 
   ▸ Gained foundational experience in academic research and interdisciplinary collaboration
 
