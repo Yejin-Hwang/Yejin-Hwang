@@ -9,7 +9,7 @@
 
 ### 📄 Resume
 
-- [View My Resume (PDF)](https://github.com/Yejin-Hwang/CV_Yejin/raw/main/CV_yejin.pdf)
+- [View My Resume (PDF)](https://github.com/Yejin-Hwang/CV_Yejin/raw/main/Yejin_RESUME.pdf)
 
 ---
 
