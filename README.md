@@ -57,6 +57,8 @@
 
 ### 📘 Projects
 
+- **[Ongoing] Financial Time Series Forecasting with Deep Learning Models and Social Media Sentiment
+  Multivariate forecasting with Reddit-based sentiment using custom lexicon and foundation time series models
 
 - [**Stock Forecasting using Transformer**](https://github.com/Yejin-Hwang/Stock-Prediction-using-Transformer)  
   Implemented Google TimesFM, Amazon Chronos, and ARIMA models for Tesla stock prediction using time-series data(PyTorch)
@@ -64,9 +66,6 @@
 
 - [**Bayesian Cost Prediction in Healthcare**](https://github.com/Yejin-Hwang/Bayesian-Cost-Prediction-in-Healthcare)  
   Compared Bayesian and Frequentist linear regression models on individual medical cost prediction (using `rethinking` package in R). Focused on uncertainty quantification and interpretability.
-
-- **[Ongoing] Reddit Sentiment–Enhanced Stock Forecasting**  
-  Multivariate forecasting with Reddit-based sentiment using custom lexicon and foundation time series models
 
 
 
