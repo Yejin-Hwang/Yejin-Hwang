@@ -26,8 +26,8 @@
 ### 🚀 Experiences
 
 - (2024.09–Present) Research Assistant @ [Prof.Sreelekha Guggilam's Lab (TAMUCC)](https://sreelekh.github.io/)
-  ▸ Conducting thesis research under Prof. Sreelekha Kadam at the intersection of financial time series modeling and social sentiment analysis  
-  ▸ Designing a Reddit sentiment-enhanced forecasting model combining custom VADER-based lexicons with multivariate transformer-based models
+  ▸ Conducting thesis research under Dr.Sreelekha at the intersection of financial time series modeling and social sentiment analysis  
+  ▸ Designing a Reddit sentiment-enhanced forecasting model utilizing FinBERT with multivariate transformer models
   ▸ Fine-tuning large foundation models using stock price data and implementing scalable inference pipelines for real-time market prediction
 
 
@@ -59,6 +59,7 @@
 
 - **[Ongoing] Financial Time Series Forecasting with Deep Learning Models and Social Media Sentiment
   Multivariate forecasting with Reddit-based sentiment using custom lexicon and foundation time series models
+  >> Expanding stock tickers up to 10, building robust pipeline to complete thesis 
 
 - [**Stock Forecasting using Transformer**](https://github.com/Yejin-Hwang/Stock-Prediction-using-Transformer)  
   Implemented Google TimesFM, Amazon Chronos, and ARIMA models for Tesla stock prediction using time-series data(PyTorch)
