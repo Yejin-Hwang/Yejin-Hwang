@@ -4,11 +4,11 @@
 🎓 B.S. in Culture & Technology + Biotechnology @ [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/eng/)  
 🔬 Former Data Science Researcher @ Samsung Medical Center (Epidemiology & Clinical Data)  
 📊 Passionate about financial time-series forecasting, NLP, and turning messy real-world data into actionable insights
-
 ---
 
-### 📄 Resume
+### 📄 Portfolio Website & Resume
 
+- https://yejin-hwang.github.io/
 - [View My Resume (PDF)](https://github.com/Yejin-Hwang/Yejin-Hwang/raw/main/CV_yejin_hwang_March_2026.pdf)
 
 ---
