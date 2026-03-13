@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Yejin (예진 황)
 
-🎓 MS in Data Science @ Texas A&M University–Corpus Christi (GPA 4.0/4.0 | Graduate Fellow)  
-🎓 B.S. in Culture & Technology + Biotechnology @ [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/eng/)  
-🔬 Former Data Science Researcher @ Samsung Medical Center (Epidemiology & Clinical Data)  
-📊 Passionate about financial time-series forecasting, NLP, and turning messy real-world data into actionable insights
+- 🎓 MS in Data Science @ Texas A&M University–Corpus Christi (GPA 4.0/4.0 | Graduate Fellow)
+- 🎓 B.S. in Culture & Technology + Biotechnology @ [Sungkyunkwan University (SKKU)](https://www.skku.ac.kr/eng/)
+- 🔬 Former Data Science Researcher @ Samsung Medical Center (Epidemiology & Clinical Data)
+- 📊 Passionate about financial time-series forecasting, NLP, and turning messy real-world data into actionable insights
 ---
 
 ### 📄 Portfolio Website & Resume
