@@ -9,7 +9,7 @@
 ### 📄 Portfolio Website & Resume
 
 - https://yejin-hwang.github.io/
-- [View My Resume (PDF)](https://github.com/Yejin-Hwang/Yejin-Hwang/raw/main/CV_yejin_hwang_March_2026.pdf)
+- [View My Resume (PDF)](https://github.com/Yejin-Hwang/Yejin-Hwang/raw/main/yejin_cv.pdf)
 
 ---
 
